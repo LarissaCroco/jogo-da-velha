@@ -43,6 +43,12 @@ ol, ul {
 .square:focus {
     outline: none;
 }
+
+.button{
+    background-color: #1C1C1C;
+    color: #ffffff;
+    border-radius: 10px;
+}
   
 .kbd-navigation .square:focus {
     background: #ddd;
